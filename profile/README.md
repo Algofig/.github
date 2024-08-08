@@ -2,6 +2,8 @@
 
 Algofig is committed to empowering individuals and organizations by providing a range of services and products that make cutting-edge technology accessible and easy to use. Our offerings include:
 
+![Algofig Background](https://github.com/Algofig/resources/blob/main/bg1.jpg)
+
 - **Open Source Solutions:** We develop and maintain open-source software that works for you, ensuring that advanced technologies are available to everyone without cost barriers.
 - **Educational Articles:** We write comprehensive articles designed to help you understand complex concepts from the ground up. Our content is structured to take you from a beginner level (0) to an advanced understanding (1).
 - **Free Products:** We create products that are available at no cost, aimed at making life easier and more efficient for users from all walks of life.

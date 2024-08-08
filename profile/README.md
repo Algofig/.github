@@ -42,4 +42,6 @@ Join us on our mission to make education and open-source technology accessible t
   <a href="https://www.linkedin.com/company/algofig/" target="_blank" ><img title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="mailto:admin@algofig.com" target="_blank" ><img title="Mail me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
+  
   <a href="https://github.com/Algofig" target="_blank" ><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
